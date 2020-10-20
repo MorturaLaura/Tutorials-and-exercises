@@ -25,4 +25,4 @@ The main aspects that the tutorial gets you familiar to are:
 * Power BI.com - Dashboards
 
 The report that I managed to create by following the tutorial is the following:
-<img src = '/Report page.png'>
+<img src = 'Report page.png'>
