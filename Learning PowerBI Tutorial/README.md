@@ -1,4 +1,4 @@
-#Learning Power BI Tutorial
+# Learning Power BI Tutorial
 
 I wanted to begin learning how to work in Power BI and do different data analyzes.
 I found on Youtube the tutorial [Power BI Tutorial From Beginner to Pro ⚡ Desktop to Dashboard in 60 Minutes](https://www.youtube.com/watch?v=AGrl-H87pRU&t=3379s)
