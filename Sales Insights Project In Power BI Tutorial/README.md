@@ -12,12 +12,12 @@ The data for the project was pulled from the MySql database of the company. The 
 The report that I managed to create by following the tutorial is the following:
 ## Key insights
 
-<img src = ‘Key insights.png’>
+<img src = ‘Sales Insights Project In Power BI Tutorial/Key insights.png’>
 
 ## Profit analysis
 
-<img src = ‘Profit analysis.png’>
+<img src = ‘Sales Insights Project In Power BI Tutorial/Profit analysis.png’>
 
 ## Performance insights
 
-<img src = ‘Performance insights.png’>
+<img src = ‘Sales Insights Project In Power BI Tutorial/Performance insights.png’>
